@@ -25,3 +25,9 @@ function setCookie(name, value, options = {}) {
 
 // Example of use:
 setCookie('user', 'John', {secure: true, 'max-age': 3600});
+
+function deleteCookie(name) {
+  setCookie(name, "", {
+    'max-age': -1
+  })
+}
