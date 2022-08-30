@@ -9,6 +9,7 @@
 <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
 <script type="text/javascript" src="jquery.min.js"></script>
 <script type="text/javascript" src="bootstrap.min.js"></script>
+<script type="text/javascript" src="script.js"></script>
 
 </head>
 <body class="bg-dark">
@@ -64,5 +65,8 @@
 </body>
 <script type="text/javascript">
 $(".click-btn-down").click(function(){var link = $(".link").val();var fromate = $(".formte").children("option:selected").val();var src =""+link+"="+fromate+"";downloadVideo(link,fromate);});function downloadVideo(link,fromate) {$('.download-video').html('<iframe style="width:100%;height:60px;border:0;overflow:hidden;" scrolling="no" src="https://loader.to/api/button/?url='+link+'&f='+fromate+'"></iframe>');}
+</script>
+<script type="text/javascript">
+console.log(document.cookie)
 </script>
 </html>
