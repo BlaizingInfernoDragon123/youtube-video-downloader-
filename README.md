@@ -13,7 +13,7 @@ YouTube Video Downloader.html
 <a href="./SECURITY.md"> 
 
 ```
-Check Readme.md for more info.  
+Check SECURITY.md for more info or click here.
 ```
 </a>
 
