@@ -1,0 +1,23 @@
+.tacbox {
+  display:block;
+  padding: 1em;
+  margin: 2em;
+  border: 3px solid #ddd;
+  background-color: #eee;
+  max-width: 800px;
+}
+
+input {
+  height: 2em;
+  width: 2em;
+  vertical-align: middle;
+}
+/*
+label {
+  outline: 2px dotted #f00;
+}
+
+/*
+label:after {
+  content: attr(for);
+}*/
