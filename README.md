@@ -9,6 +9,14 @@ YouTube Video Downloader.html
 ```
 </a>
 
+# Check SECURITY.md for more info about security policy or click down in that box-
+<a href="./SECURITY.md"> 
+
+```
+Check Readme.md for more info.  
+```
+</a>
+
 # My Email For Any Queries-
 - 📫 How to reach me ... U can reach me by mailing me at this email address just click once at the blue colored text - <a href="mailto:bibhabbarua@gmail.com">
 ```
@@ -16,7 +24,7 @@ BlazingInfernoDragon123@gmail.com
 ```
 </a>
 
-Thank u for reading have a nice day :)
+Thank you for reading have a nice day :)
 
 # Our YouTube Channel Link-
 Our YouTube Channel Link Plss subscribe -
