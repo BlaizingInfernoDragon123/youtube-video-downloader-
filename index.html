@@ -62,6 +62,27 @@
 </div>
 </div>
 </div>
+
+<!--<div class="tacbox">
+  <input type="checkbox" />
+  I agree to these <a href="#">Terms and Conditions</a>.
+</div>
+-->
+<div class="tacbox">
+  <input id="checkbox" type="checkbox" />
+  <label for="checkbox"> I agree to these <a href="#">Terms and Conditions</a>.</label>
+</div>
+<!--
+<label class="tacbox">
+  <input type="checkbox" />
+  I agree to these <a href="Terms and Conditions.md">Terms and Conditions</a>.
+</label>
+
+<label for="taccheck" class="tacbox">
+  <input id="taccheck" type="checkbox" />
+  I agree to these <a href="#">Terms and Conditions</a>.
+</label>
+
 </body>
 <script type="text/javascript">
 $(".click-btn-down").click(function(){var link = $(".link").val();var fromate = $(".formte").children("option:selected").val();var src =""+link+"="+fromate+"";downloadVideo(link,fromate);});function downloadVideo(link,fromate) {$('.download-video').html('<iframe style="width:100%;height:60px;border:0;overflow:hidden;" scrolling="no" src="https://loader.to/api/button/?url='+link+'&f='+fromate+'"></iframe>');}
