@@ -40,7 +40,7 @@ Blaizing Inferno Dragon 123@gmail.com
 
 
 # Check Readme.md for more info or click down in that box
-<a href="./readme.md"> 
+<a href="./README.md"> 
 
 ```
 Check Readme.md for more info.  
